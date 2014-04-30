@@ -1,6 +1,6 @@
 {
   "name": "dat-completion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bash completion (aka tab completion) for dat",
   "repository": "mafintosh/dat-completion",
   "bin": {
