@@ -11,5 +11,8 @@
     "completion",
     "tab",
     "bash"
-  ]
+  ],
+  "dependencies": {
+    "tabalot": "^0.3.1"
+  }
 }
