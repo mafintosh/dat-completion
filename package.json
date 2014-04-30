@@ -1,15 +1,15 @@
 {
   "name": "dat-completion",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "bash completion (aka tab completion) for dat",
   "repository": "mafintosh/dat-completion",
   "bin": {
     "dat-completion": "./completion.js"
   },
   "keywords": [
-  	"dat",
-  	"completion",
-  	"tab",
-  	"bash"
+    "dat",
+    "completion",
+    "tab",
+    "bash"
   ]
 }
