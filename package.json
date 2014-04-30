@@ -1,0 +1,8 @@
+{
+  "name": "dat-completion",
+  "version": "0.0.0",
+  "repository": "mafintosh/dat-completion",
+  "bin": {
+  	"dat-completion": "./completion.js"
+  }
+}
